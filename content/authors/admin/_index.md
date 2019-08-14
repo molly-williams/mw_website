@@ -4,11 +4,8 @@ authors:
 bio: Interdisciplinary researcher / environmental data scientist
 education:
   courses:
-  - course: Master of Environmental Science and Management
-  institution: Bren School, University of California Santa Barbara
-  - course: Bachelor of Arts in Environmental Studies
-    institution: Mount Holyoke College
-    year: 2012
+  - course: Master of Environmental Science and Management, UCSB Bren School
+  - course: Bachelor of Arts in Environmental Studies, Mount Holyoke College
 email: "mollylegate@gmail.com"
 interests:
 - Adaptive/ecosystem-based Management
