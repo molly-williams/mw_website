@@ -25,10 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-01-28"
   date_end = "2019-08-31"
   description = """
-
-  * Data wrangling / environmental data science
-  * Statistical and spatial analysis
-  * Calculating scores for the 2019 Global Ocean Health Index
   """
 
 [[experience]]
@@ -39,10 +35,6 @@ date_format = "Jan 2006"
   date_start = "2018-06-18"
   date_end = "2018-09-18"
   description = """
-
-  * Contributed to 2018 [Vessel Speed Reduction program](https://www.ourair.org/air-pollution-marine-shipping/) to address fatal ship strikes on whales
-  * Formulated recommendations for advocacy work based on technical reports
-  * Created resilience-focused educational materials for local marine protected areas (MPAs)
   """
 
 [[experience]]
@@ -53,11 +45,6 @@ date_format = "Jan 2006"
   date_start = "2014-06-14"
   date_end = "2017-07-14"
   description = """
-
-  * Microbiological cultivation, DNA extraction, and PCR
-  * Development of microbiological techniques and protocols for contaminant detection to advance bioburden control procedures
-  * Technical communication of experimental data via technical reports and presentations
-  * Lab management
   """
   
   [[experience]]
