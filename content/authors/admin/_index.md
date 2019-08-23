@@ -9,6 +9,7 @@ education:
 email: "mollylegate@gmail.com"
 interests:
 - Adaptive/ecosystem-based management
+- Environmental data science
 - Marine conservation
 - Citizen science
 name: Molly Williams
