@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Associate"
+  title = "Research Associate, Applied Ecology"
   company = "Algenol Biotech LLC"
   company_url = ""
   location = "Fort Myers, FL"

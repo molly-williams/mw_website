@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outreach | Molly Williams</title>
+    <link>/tags/outreach/</link>
+      <atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>outreach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>outreach</title>
+      <link>/tags/outreach/</link>
+    </image>
+    
+    <item>
+      <title>Infographic on Resilient Coasts</title>
+      <link>/project/infographic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/infographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasive Algae Awareness Brochure</title>
+      <link>/project/booklet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/booklet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
