@@ -15,14 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "layer-group"
+  icon_pack = "fas"
+  name = "Spatial Analysis"
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics and Data Science"
   
-[[feature]]
-  icon = "globe"
-  icon_pack = "fas"
-  name = "Spatial Analysis"
 
 [[feature]]
   icon = "database"
@@ -30,14 +31,15 @@ subtitle = ""
   name = "Data Management"
   
 [[feature]]
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Project Management"
+  
+[[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Microbiology"
 
-[[feature]]
-  icon = "tasks"
-  icon_pack = "fas"
-  name = "Project Management"
   
 [[feature]]
   icon = "water"
