@@ -7,6 +7,6 @@ image:
 summary: Analysis of ecological irreplacability for land parcels in Morro Bay, CA based on species abundance and parcel size. Visualization done in ArcMap.
 tags:
 - coding
-title: Report: Restoration Priority Analysis in Marxan
+title: Report - Restoration Priority Analysis in Marxan
 ---
 

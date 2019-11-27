@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Molly Williams</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly-williams.com/tags/</link>
+      <atom:link href="https://molly-williams.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://molly-williams.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://molly-williams.com/tags/</link>
     </image>
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>https://molly-williams.com/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>https://molly-williams.com/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coding</title>
-      <link>/tags/coding/</link>
+      <link>https://molly-williams.com/tags/coding/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/coding/</guid>
+      <guid>https://molly-williams.com/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreach</title>
-      <link>/tags/outreach/</link>
+      <link>https://molly-williams.com/tags/outreach/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/outreach/</guid>
+      <guid>https://molly-williams.com/tags/outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>/tags/writing/</link>
+      <link>https://molly-williams.com/tags/writing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/writing/</guid>
+      <guid>https://molly-williams.com/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://molly-williams.com/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
+      <guid>https://molly-williams.com/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://molly-williams.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://molly-williams.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://molly-williams.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/plot/</guid>
+      <guid>https://molly-williams.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://molly-williams.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/regression/</guid>
+      <guid>https://molly-williams.com/tags/regression/</guid>
       <description></description>
     </item>
     

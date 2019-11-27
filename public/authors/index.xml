@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Molly Williams</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly-williams.com/authors/</link>
+      <atom:link href="https://molly-williams.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://molly-williams.com/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://molly-williams.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://molly-williams.com/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://molly-williams.com/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <link>https://molly-williams.com/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://molly-williams.com/authors/robert-ford/</guid>
       <description></description>
     </item>
     

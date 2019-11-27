@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing | Molly Williams</title>
-    <link>/tags/writing/</link>
-      <atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly-williams.com/tags/writing/</link>
+      <atom:link href="https://molly-williams.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <description>writing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://molly-williams.com/img/icon-192.png</url>
       <title>writing</title>
-      <link>/tags/writing/</link>
+      <link>https://molly-williams.com/tags/writing/</link>
     </image>
     
     <item>
-      <title>Marine Protected Areas and the Value of Resilient Coasts</title>
-      <link>/project/edc/</link>
+      <title>Conservation Policy Memo</title>
+      <link>https://molly-williams.com/project/memo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/edc/</guid>
+      <guid>https://molly-williams.com/project/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine Protected Areas and the Value of Resilient Coasts</title>
+      <link>https://molly-williams.com/project/edc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/edc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roadblocks to Synthesis</title>
-      <link>/project/ohi/</link>
+      <link>https://molly-williams.com/project/ohi/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/ohi/</guid>
+      <guid>https://molly-williams.com/project/ohi/</guid>
       <description></description>
     </item>
     

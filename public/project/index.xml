@@ -2,53 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Molly Williams</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly-williams.com/project/</link>
+      <atom:link href="https://molly-williams.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://molly-williams.com/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://molly-williams.com/project/</link>
     </image>
     
     <item>
       <title>Cetacean Sighting Map</title>
-      <link>/project/seasci/</link>
+      <link>https://molly-williams.com/project/seasci/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/seasci/</guid>
+      <guid>https://molly-williams.com/project/seasci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation Plan for Humpback Whales in the CA Current</title>
+      <link>https://molly-williams.com/project/humpbacks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/humpbacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation Policy Memo</title>
+      <link>https://molly-williams.com/project/memo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of US Environmental NGO Membership</title>
+      <link>https://molly-williams.com/project/ngo_membership/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/ngo_membership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infographic on Resilient Coasts</title>
-      <link>/project/infographic/</link>
+      <link>https://molly-williams.com/project/infographic/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/infographic/</guid>
+      <guid>https://molly-williams.com/project/infographic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invasive Algae Awareness Brochure</title>
-      <link>/project/booklet/</link>
+      <link>https://molly-williams.com/project/booklet/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/booklet/</guid>
+      <guid>https://molly-williams.com/project/booklet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marine Protected Areas and the Value of Resilient Coasts</title>
-      <link>/project/edc/</link>
+      <link>https://molly-williams.com/project/edc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/edc/</guid>
+      <guid>https://molly-williams.com/project/edc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roadblocks to Synthesis</title>
-      <link>/project/ohi/</link>
+      <link>https://molly-williams.com/project/ohi/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/ohi/</guid>
+      <guid>https://molly-williams.com/project/ohi/</guid>
       <description></description>
     </item>
     

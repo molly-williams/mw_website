@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coding | Molly Williams</title>
-    <link>/tags/coding/</link>
-      <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://molly-williams.com/tags/coding/</link>
+      <atom:link href="https://molly-williams.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <description>coding</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://molly-williams.com/img/icon-192.png</url>
       <title>coding</title>
-      <link>/tags/coding/</link>
+      <link>https://molly-williams.com/tags/coding/</link>
     </image>
     
     <item>
       <title>Cetacean Sighting Map</title>
-      <link>/project/seasci/</link>
+      <link>https://molly-williams.com/project/seasci/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/seasci/</guid>
+      <guid>https://molly-williams.com/project/seasci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation Plan for Humpback Whales in the CA Current</title>
+      <link>https://molly-williams.com/project/humpbacks/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/humpbacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of US Environmental NGO Membership</title>
+      <link>https://molly-williams.com/project/ngo_membership/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://molly-williams.com/project/ngo_membership/</guid>
       <description></description>
     </item>
     
