@@ -12,6 +12,7 @@ interests:
 - Environmental data science
 - Marine conservation
 - Citizen science
+- Environmental justice
 name: Molly Williams
 organizations:
 - name: National Center for Ecological Analysis and Synthesis (NCEAS)

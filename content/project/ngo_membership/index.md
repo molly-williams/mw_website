@@ -4,7 +4,7 @@ external_link: https://docs.google.com/drawings/d/e/2PACX-1vQDVpBHzXmlICybLSODLa
 image:
   caption: 
   focal_point: 
-summary: Heat map of environmental NGO membership by US congressional district
+summary: Heat map of environmental NGO membership by US congressional district created in ArcMap
 tags:
 - coding
 title: Distribution of US Environmental NGO Membership
