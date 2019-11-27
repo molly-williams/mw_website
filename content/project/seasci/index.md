@@ -4,7 +4,7 @@ external_link: https://seatizenscience.shinyapps.io/SEASci-app/
 image:
   caption: 
   focal_point: 
-summary: Shiny app created for the Channel Islands National Marine Sanctuary (CINMS)
+summary: Shiny app created as a visualization tool for the Channel Islands National Marine Sanctuary (CINMS)
 tags:
 - coding
 title: Cetacean Sighting Map
