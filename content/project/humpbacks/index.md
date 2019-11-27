@@ -7,6 +7,6 @@ image:
 summary: Detailed conservation plan based on spatial analysis of ecological threats and population hotspots.
 tags:
 - coding
-title: Conservation Plan for Humpback Whales 
+title: Conservation Plan for Humpback Whales in the CA Current
 ---
 
